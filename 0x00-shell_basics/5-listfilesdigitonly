@@ -1,5 +1,2 @@
 #!/bin/bash
-‘ls –na’
-ls –na’ >> 5-listfilesdigitonly
-echo ls –na’
 ls –na
